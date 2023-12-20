@@ -1,0 +1,99 @@
+2023-10-08 07:57:42,906 - INFO - Creating main window, running main loop
+2023-10-08 07:57:42,959 - INFO - Gui module starting
+2023-10-08 07:57:42,959 - INFO - ****************************************************************************************************
+2023-10-08 07:57:42,959 - INFO - Creating main menu buttons
+2023-10-08 07:57:43,673 - INFO - New text input window created
+2023-10-08 07:57:43,674 - INFO - Creating input boxes
+2023-10-08 07:57:43,694 - INFO - Creating submit button
+2023-10-08 07:57:53,688 - INFO - Collecting user text input
+2023-10-08 07:57:53,721 - INFO - Income record record sent to SQL server: ['35', 'USD', '352', '2023-12-22', 'final', 'test'], ['Amount', 'Currency', 'TaxAmount', 'Date', 'Description', 'Party']
+2023-10-08 07:57:53,722 - INFO - Sumit button pressed, transfering data to SQL
+2023-10-08 08:42:53,911 - INFO - Creating main window, running main loop
+2023-10-08 08:42:53,968 - INFO - Gui module starting
+2023-10-08 08:42:53,968 - INFO - ****************************************************************************************************
+2023-10-08 08:42:53,968 - INFO - Creating main menu buttons
+2023-10-08 08:43:00,482 - INFO - New text input window created
+2023-10-08 08:43:00,482 - INFO - Creating input boxes
+2023-10-08 08:43:00,500 - INFO - Creating submit button
+2023-10-08 09:50:49,602 - INFO - Creating main window, running main loop
+2023-10-08 09:50:49,672 - INFO - Gui module starting
+2023-10-08 09:50:49,672 - INFO - ****************************************************************************************************
+2023-10-08 09:50:49,672 - INFO - Creating main menu buttons
+2023-10-08 09:50:53,548 - INFO - Creating main window, running main loop
+2023-10-08 09:50:53,601 - INFO - Gui module starting
+2023-10-08 09:50:53,601 - INFO - ****************************************************************************************************
+2023-10-08 09:50:53,601 - INFO - Creating main menu buttons
+2023-10-08 09:50:56,333 - INFO - New text input window created
+2023-10-08 09:50:56,334 - INFO - Creating input boxes
+2023-10-08 09:50:56,340 - INFO - Creating submit button
+2023-10-08 09:51:03,263 - INFO - Creating main window, running main loop
+2023-10-08 09:51:03,315 - INFO - Gui module starting
+2023-10-08 09:51:03,315 - INFO - ****************************************************************************************************
+2023-10-08 09:51:03,315 - INFO - Creating main menu buttons
+2023-10-08 09:51:07,256 - INFO - Creating main window, running main loop
+2023-10-08 09:51:07,308 - INFO - Gui module starting
+2023-10-08 09:51:07,308 - INFO - ****************************************************************************************************
+2023-10-08 09:51:07,308 - INFO - Creating main menu buttons
+2023-10-08 09:51:09,300 - INFO - New text input window created
+2023-10-08 09:51:09,301 - INFO - Creating input boxes
+2023-10-08 09:51:09,308 - INFO - Creating submit button
+2023-10-08 09:51:23,765 - INFO - Creating main window, running main loop
+2023-10-08 09:51:23,817 - INFO - Gui module starting
+2023-10-08 09:51:23,818 - INFO - ****************************************************************************************************
+2023-10-08 09:51:23,818 - INFO - Creating main menu buttons
+2023-10-08 09:51:53,428 - INFO - Creating main window, running main loop
+2023-10-08 09:51:53,490 - INFO - Gui module starting
+2023-10-08 09:51:53,490 - INFO - ****************************************************************************************************
+2023-10-08 09:51:53,490 - INFO - Creating main menu buttons
+2023-10-08 09:51:56,620 - INFO - New text input window created
+2023-10-08 09:51:56,620 - INFO - Creating input boxes
+2023-10-08 09:51:56,624 - INFO - Creating submit button
+2023-10-08 09:52:21,904 - INFO - Collecting user text input
+2023-10-08 09:52:21,948 - INFO - Income record record sent to SQL server: ['120.00', 'USD', '20', '2023-02-12', 'Services', 'Shorecode LLC'], ['Amount', 'Currency', 'TaxAmount', 'Date', 'Description', 'Party']
+2023-10-08 09:52:21,948 - INFO - Sumit button pressed, transfering data to SQL
+2023-10-08 09:52:24,745 - INFO - New text input window created
+2023-10-08 09:52:24,745 - INFO - Creating input boxes
+2023-10-08 09:52:24,752 - INFO - Creating submit button
+2023-10-08 09:52:45,616 - INFO - Collecting user text input
+2023-10-08 09:52:45,656 - INFO - Expense record record sent to SQL server: ['111', 'CAD', '11', '2023-05-30', 'Code', 'Upwork'], ['Amount', 'Currency', 'TaxAmount', 'Date', 'Description', 'Party']
+2023-10-08 09:52:45,657 - INFO - Sumit button pressed, transfering data to SQL
+2023-10-08 09:52:47,119 - INFO - New text input window created
+2023-10-08 09:52:47,120 - INFO - Creating input boxes
+2023-10-08 09:52:47,125 - INFO - Creating submit button
+2023-10-08 09:53:31,927 - INFO - Collecting user text input
+2023-10-08 09:53:31,968 - INFO - Investment purchase record sent to SQL server: ['10000', 'Shares', '100', '2023-02/20', 'AAPLE', 'IB'], ['Amount', 'Currency', 'TaxAmount', 'Date', 'Description', 'Party']
+2023-10-08 09:53:31,968 - INFO - Sumit button pressed, transfering data to SQL
+2023-10-08 09:53:33,662 - INFO - New text input window created
+2023-10-08 09:53:33,662 - INFO - Creating input boxes
+2023-10-08 09:53:33,666 - INFO - Creating submit button
+2023-10-08 09:53:54,390 - INFO - Collecting user text input
+2023-10-08 09:53:54,425 - INFO - Investment sale record sent to SQL server: ['2000', 'Shares', '100', '2023-02-12', 'IIPR', 'IB'], ['Amount', 'Currency', 'TaxAmount', 'Date', 'Description', 'Party']
+2023-10-08 09:53:54,426 - INFO - Sumit button pressed, transfering data to SQL
+2023-10-27 10:26:47,566 - INFO - Creating main window, running main loop
+2023-10-27 10:26:47,669 - INFO - Gui module starting
+2023-10-27 10:26:47,669 - INFO - ****************************************************************************************************
+2023-10-27 10:26:47,669 - INFO - Creating main menu buttons
+2023-10-27 10:26:49,821 - INFO - New text input window created
+2023-10-27 10:26:49,822 - INFO - Creating input boxes
+2023-10-27 10:26:49,829 - INFO - Creating submit button
+2023-10-28 10:05:57,845 - INFO - Creating main window, running main loop
+2023-10-28 10:05:57,996 - INFO - Gui module starting
+2023-10-28 10:05:57,996 - INFO - ****************************************************************************************************
+2023-10-28 10:06:27,854 - INFO - Creating main window, running main loop
+2023-10-28 10:06:27,986 - INFO - Gui module starting
+2023-10-28 10:06:27,986 - INFO - ****************************************************************************************************
+2023-10-28 10:06:27,986 - INFO - Creating main menu buttons
+2023-10-28 10:06:30,401 - INFO - New text input window created
+2023-10-28 10:06:30,401 - INFO - Creating input boxes
+2023-10-28 10:06:30,405 - INFO - Creating submit button
+2023-10-28 10:07:18,301 - INFO - Creating main window, running main loop
+2023-10-28 10:07:18,432 - INFO - Gui module starting
+2023-10-28 10:07:18,433 - INFO - ****************************************************************************************************
+2023-10-28 10:07:18,433 - INFO - Creating main menu buttons
+2023-10-28 10:14:36,215 - INFO - Creating main window, running main loop
+2023-10-28 10:14:36,344 - INFO - Gui module starting
+2023-10-28 10:14:36,344 - INFO - ****************************************************************************************************
+2023-10-28 10:14:36,344 - INFO - Creating main menu buttons
+2023-10-28 10:14:37,853 - INFO - New text input window created
+2023-10-28 10:14:37,853 - INFO - Creating input boxes
+2023-10-28 10:14:37,860 - INFO - Creating submit button
